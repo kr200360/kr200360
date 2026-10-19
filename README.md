@@ -115,6 +115,24 @@ I'm looking forward to building projects in:
 
 ---
 
+## 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kr200360/kr200360/output/github-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kr200360/kr200360/output/github-snake.svg">
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/kr200360/kr200360/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## 🎯 My Goal
 
 To become a skilled software developer with a strong foundation in AI and Machine Learning, build meaningful projects, and keep learning every day.
